@@ -7,7 +7,7 @@ import time, random
 
 
 #login by user & password
-leertsefani = InstagramApi("USERNAME", "PASSWORD")
+leertsefani = InstagramApi("_iniayi", "ayigantengbanget")
 leertsefani.logIn()
 while(True):
     try:
